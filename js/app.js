@@ -41,6 +41,6 @@ render() {
 }
 // rendering into the DOM
 ReactDOM.render(
-   <App source="http://headlessd8.local/node/rest" />,
+   <App source="http://headlessd8.local/node/event" />,
    document.getElementById('container')
 );
